@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\frontend\\src\\screens"
+  ],
+  "SelectedNode": "\\frontend\\src\\screens\\ProfileScreen.js",
+  "PreviewInSolutionExplorer": false
+}
